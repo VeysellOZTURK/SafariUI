@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+:root{
+    background-color:#0D1225;
+    height: 100vh;
+    background-image: url("../public/bg/bg.webp");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    font-family: 'SF Pro Display', sans-serif;
+}

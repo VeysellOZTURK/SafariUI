@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  
+}
+
+.dock{
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.about{
+  height: 95vh;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  background-image: url("https://source.unsplash.com/1L71sPT5XKc");
+}
