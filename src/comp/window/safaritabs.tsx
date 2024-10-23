@@ -35,7 +35,3 @@ const SafariTabs: React.FC<SafariTabsProps> = ({ list, onSelect }) => {
 }
 
 export default SafariTabs;
-
-// "pointer-events-none bg-slate-100 text-slate-400 rounded-tl border
-//             border-slate-900/5 pl-4 pr-8 py-1.5 -mb-px -mr-4 flex 
-//             items-center justify-center space-x-2 dark:bg-slate-800 dark:text-slate-500"
